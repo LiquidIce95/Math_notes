@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/dave/github_repos",
-      "program": "/home/dave/github_repos/build/Debug/outDebug",
+      "cwd": "/home/dave/github_repos/Info2",
+      "program": "/home/dave/github_repos/Info2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
